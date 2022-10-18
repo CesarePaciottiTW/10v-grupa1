@@ -1,1 +1,1 @@
-# 10v-grupa1
+towa e probna programa za Hello World
